@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-0fa7f644bc102ebfe83f8c8d755c9b1136b01049.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-81c84f8aeb0677d11ff17319063d20db3826a7a1.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-7bfb080c1bf089a2ab8b8894eea4e86d4e32e808.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-d01a25345c3b799bbdd4e337aa86c9342017e9ce.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-dd538e21499b9b5bdd470d73dde606badd79ae0a.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-596c6ad878e8d171e5a1f488370a25cc69f385ca.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-c23070f449bd0f8679bd2cf3039f2419064be90c.jar" />
+    </item>
+    <item
+        jar="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/baixuefei/Desktop/github/SampleForWiFi-master/app/build/intermediates/pre-dexed/debug/classes-21619b80a5c7207390d5d9aa458c400433b7dc3a.jar" />
+    </item>
+
+</items>
